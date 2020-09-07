@@ -28,3 +28,4 @@ A curated list of awesome job boards
 [remotists](https://remotists.substack.com/)  
 [weworkremotely](https://weworkremotely.com/)  
 [EuroPython 2020](https://ep2020.europython.eu/sponsor/job-board/)
+[123JobZone](https://www.123JobZone.com/)
